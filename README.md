@@ -2,6 +2,8 @@
 An easy playthrough character for those wanting to mainly experience the story of Borderlands solo, without too much trouble.
 
 SKIP TO END FOR INSTRUCTIONS
+
+This works on a regular and legit Xbox 360 console (not modded) and I can still play coop online with these save files.
  
 I have made this save mostly for my own use because I am Not the most epic FPS player, I find it hard to find other players on Xbox 360 to tackle the big fights, Boss fights and Raids are impossible for me solo at the right level, I love the story and want to experience the whole game without it being too hard or stressful. Borderlands The Pre Sequel (and BL2) have epic story lines and are really hard to experience on your own with a regular playthrough - it takes a lot of time, effort and stress to do this solo (but it is more rewarding I know) but with this build you can fly through it and focus on one of the most awesome storylines EVER.
 
