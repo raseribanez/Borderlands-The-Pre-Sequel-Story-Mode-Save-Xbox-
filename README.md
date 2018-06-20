@@ -10,7 +10,7 @@ This save pretty much makes you untouchable to enemies (not completely though) a
 What you get:
 * Claptrap character at level 50 (Why claptrap? Because he is immune to zero oxygen environments, the emphasis here was to make it easy to play)
 * 4 Awesome level 50 guns: Assault rifle, Laser Weapon, SMG and Shotgun (Only 4 because I wanted to keep inventory space so you can still hold mission items and pick up gear - If you want other guns or maxed out 2000+ gun saves I have a save for that too - I found it awkward with an inventory showing 2000/15. These guns will easily get you through the entire playthrough)
-* Awesome gear, homing shock grenade mod, Corrosive shield (Clap is mostly immune to corrosion, with this shield if enemies melee you they die from corrosion)
+* Awesome gear, homing shock grenade mod, Corrosive shield that makes Clap immune to corrosion (he is most damaged by corrosion), and with this shield, if enemies melee you they die from corrosion)
 * Money - 1,999,999
 * Moonstones - 400
 * Some customization items in the Concordia Bank
