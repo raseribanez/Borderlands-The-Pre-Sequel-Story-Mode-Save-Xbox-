@@ -54,6 +54,7 @@ HOW TO:
 * Drag this level one claptrap save over to the main grey area in horizon - a window will open with the inforation inside.
 * Click the small contents tab, you should see a filetree showing a file called something like GameSave.sav
 * Right click it, and select REPLACE, then select this save file from your PC, and also make sure you select the XBOX 360 filetype in the little frop down menu, otherwise it will give you an error
-* You should see a success message - you now need to click the menu tab saying "Save Hash and Reassign" this is very important to get it to read on your profile.
-* You can now put the USB back in the console, load up the game, select the USB as storage device, and see your character ready to go :)
+* You should see a success message 
+* Click the red menu tab saying "Save Hash and Reassign" this is very important to get it to read on your profile.
+* You can now put the USB back in the console, turn it on, load up the game, select the USB as storage device, and see your level 50  character ready to go :)
 
