@@ -47,8 +47,9 @@ HOW TO:
 * Create a new Claptrap character (we are going to swap the save data from this file)
 * Get through the opening intro and cutscenes, then select Save and Quit as soon as you are able to.
 * The save is now on the USB so shut everything down and remove the USB.
-* Load up your PC and download Horizon (https://www.wemod.com/horizon/)
-* Right click Horizon icon and select "Run as Admin" - this is very important to get it to read the hidden save data.
+* Load up your PC and download Horizon (https://www.wemod.com/horizon/).
+* Install Horizon using the set-up file you downloaded (you may have to also go online and register a free account with Horizon, using an email address before you can use it for this, but I am not 100% sure if this is a requirement)
+* Right click Horizon icon and select "Run as Admin" - this is very important to get it to read the hidden Xbox save data.
 * If all is good it will have read your USB automatically - In horizon device explorer you will see your Xbox USB data, go to games, then Borderlands TPS, find your Claptrap level one save you made earlier in the list (DONT use the backup save file if one is in there)
 * Drag this level one claptrap save over to the main grey area in horizon - a window will open with the inforation inside.
 * Click the small contents tab, you should see a filetree showing a file called something like GameSave.sav
