@@ -18,10 +18,14 @@ What you get:
 * Some customization items in the Concordia Bank
 
 I RECCOMMEND:
-* Your game will start at the very beginning with a level 50 claptrap - you will need to equip your gear from your inventory.
+* Your game will start at the very beginning with a level 50 claptrap - 
+You will have 47 unassigned skill points, NOTE... the mod provided works well with specific perks in the skill tree - try to assign your points to unlock the following skills: HYOERION PUNCH and FLOAT LIKE A BEE
+* You will need to equip your gear from your inventory as soon as you start, some things won't show so if you press the grenade slot you will see whats available.
 * Focus mainly on the main story quests first - that way when you get to the end boss and raid you will be level 50 while they should be at only around level 27ish, then go and do all the side quests - you can accept them just focus on completing the main story first.
 * Get to Concordia as soon as possible, see the Black Market vendor and use the moonstones to increase back-pack space, and also increase ammo amounts for the gun types you have.
+* In concordia you will have a mission that shows you the Bank storage system - you will find a load more weapons and items in thie bank vault.
 * On the final raid use the electric homing grenade, and electric gun I have provided - you have to stand in front of him and shoot him in the face - Electricity is the key and I have done it with the loadout I am giving you
+
 
 What I have done here is take a save I found online and customize it for Story mode playthrough (the person had 2000/15 inventory meaning you cant pick anything up unless you drop like 1986 items first, plus it kept buggin out where the inventory was overfull). I picked out a few awesome items and stripped it down so you can experience the game properly and still collect items if you want to.
 If you want this save with different guns let me know as I have access to literally thousands of items so can pick what you want, I can even use the save editor to create custom ones. If you want the same save but the original one I mentioned with the 2000+ guns and mods you can find it on this Github account.
